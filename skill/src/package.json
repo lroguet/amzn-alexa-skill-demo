@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "alexa-sdk": "1.0.6"  },
+  "description": "Alexa demo skill.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lroguet/amzn-alexa-skill-demo.git"
+  }
+}
