@@ -17,6 +17,6 @@ exports.handler = function(event, context, callback) {
 // Intent handlers
 var handlers = {
   'MyDemoIntent': function() {
-      this.emit(':tell', 'The demo is great.');
+      this.emit(':tell', 'The demo is great. Thank you very much.');
   }
 };
